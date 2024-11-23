@@ -1,5 +1,5 @@
 #5
-name: simple-web-eks
+name: simple-web-eks1
 
 on:
   push:
